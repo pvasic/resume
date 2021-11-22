@@ -114,15 +114,9 @@ content:
          caption: январь 2021 - настоящее время
          quote: >
             Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
-          description: | # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
             - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
             - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
-
-
-
-
-
-
 
 
   - title: Education # Title for the section
@@ -138,18 +132,6 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
