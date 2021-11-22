@@ -86,6 +86,7 @@ content:
             - реализация сохранения в базы Postgres и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
             - реализация и тестирование REST и AJAX контроллеров
             - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
+
   - title: Опыт работы # Title for the section
       layout: list # Type of content section (list/text)
       content:
@@ -102,6 +103,20 @@ content:
             - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
             - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
 
+  - title: Опыт работы # Title for the section
+      layout: list # Type of content section (list/text)
+      content:
+        - layout: left
+          title: РКК «Энергия»
+          link: https://javaops.ru/
+            link_text: javaops.ru
+          sub_title: Инженер
+          caption: январь 2021 - настоящее время
+          quote: >
+            Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+          description: | # this will include new lines to allow paragraphs
+            - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
+            - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
 
 
 
