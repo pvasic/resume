@@ -87,7 +87,7 @@ content:
             - реализация и тестирование REST и AJAX контроллеров
             - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
 
-  - title: Опыт работы # Title for the section
+
       layout: list # Type of content section (list/text)
       content:
         - layout: left
@@ -103,7 +103,7 @@ content:
             - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
             - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
 
-  - title: Опыт работы # Title for the section
+
       layout: list # Type of content section (list/text)
       content:
         - layout: left
