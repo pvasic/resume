@@ -16,7 +16,7 @@ website: www.github.com/sproogen/resume-theme
 darkmode: false
 
 # Social links
-github_username:  pvasic
+github_username: pvasic
 instagram_username: pv_asic
 linkedin_username: pl.vasichkin
 #youtube_username: globalmtb
@@ -25,13 +25,13 @@ linkedin_username: pl.vasichkin
 
 # Additional icon links
 additional_links:
-- title: skype
-  icon: fab fa-skype
-  url: https://join.skype.com/invite/MbQSABeMa5hW
+  - title: skype
+    icon: fab fa-skype
+    url: https://join.skype.com/invite/MbQSABeMa5hW
 
-- title: telegram
-  icon: fab fa-telegram
-  url: https://t.me/pvasic
+  - title: telegram
+    icon: fab fa-telegram
+    url: https://t.me/pvasic
 
 # About Section
 about_title: Личные качества
@@ -40,17 +40,17 @@ about_content: | # this will include new lines to allow paragraphs
   Предприимчивость, инициативность и креативность.
 
 content:
-    - title: Квалификация
-      layout: text
-      content: |
-       - <mark>Languages</mark> : Java, XML, SQL
-       - <mark>Java Frameworks</mark> : Java (Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
-       - <mark>DB</mark> : PostgreSQL, MySQL, HSQLDB, H2
-       - <mark>JEE</mark> : Apache Tomcat
-       - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT
-       - <mark>Инструменты</mark> : Git, Maven, IntelliJ IDEA
-       - <mark>Навыки</mark> : применение концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования.
-       - <mark>Английский</mark> : B1 – средний
+  - title: Квалификация
+    layout: text
+    content: |
+      - <mark>Languages</mark> : Java, XML, SQL
+      - <mark>Java Frameworks</mark> : Java (Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
+      - <mark>DB</mark> : PostgreSQL, MySQL, HSQLDB, H2
+      - <mark>JEE</mark> : Apache Tomcat
+      - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT
+      - <mark>Инструменты</mark> : Git, Maven, IntelliJ IDEA
+      - <mark>Навыки</mark> : применение концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования.
+      - <mark>Английский</mark> : B1 – средний
 
   - title: Проекты # Title for the section
     layout: list # Type of content section (list/text)
@@ -60,7 +60,7 @@ content:
         link: github.com/pvasic
         # link_text: Project Website
         additional_links:
-          - title:  pvasic/restaurant-voting
+          - title: pvasic/restaurant-voting
             icon: fab fa-github
             url: github.com/pvasic/restaurant-voting
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -83,9 +83,9 @@ content:
         quote: >
           Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей
         description: | # this will include new lines to allow paragraphs
-            - реализация сохранения в базы Postgres и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
-            - реализация и тестирование REST и AJAX контроллеров
-            - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
+          - реализация сохранения в базы Postgres и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
+          - реализация и тестирование REST и AJAX контроллеров
+          - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,26 +97,26 @@ content:
         sub_title: Инженер
         caption: январь 2021 - настоящее время
         quote: >
-           Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+          Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
         description: | # this will include new lines to allow paragraphs
-           - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
-           - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
-           - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
+          - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
+          - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
+          - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
 
   - title:
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
-         title: РКК «Энергия»
-         link: https://javaops.ru/
-           link_text: javaops.ru
-         sub_title: Инженер
-         caption: январь 2021 - настоящее время
-         quote: >
-            Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
-         description: | # this will include new lines to allow paragraphs
-            - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
-            - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
+      - layout: left
+        title: РКК «Энергия»
+        link: https://javaops.ru/
+        link_text: javaops.ru
+        sub_title: Инженер
+        caption: январь 2021 - настоящее время
+        quote: >
+          Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+        description: | # this will include new lines to allow paragraphs
+          - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
+          - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
 
 
   - title: Education # Title for the section
@@ -145,4 +145,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
