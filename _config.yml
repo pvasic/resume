@@ -115,8 +115,21 @@ content:
         quote: >
           Продажи. Управление заказами. SEO в Yandex Direct. Поддержка оборудования.
         description: | # this will include new lines to allow paragraphs
-          - полностью перепсисал контекстную рекламу для полиграфической целевой аудитории.
-          - Разработал калькулятор заказов в MathCad и Exel
+          - полностью переписал контекстную рекламу для полиграфической целевой аудитории.
+          - Разработал калькулятор заказов в MathCad и Exel.
+
+  - title:
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: RWS
+        sub_title: Видеоинженер
+        caption: август 2008 - ноябрь 2010
+        quote: >
+          Оцифровка материалов со съёмок, первичный монтаж. Цветокоррекция.
+        description: | # this will include new lines to allow paragraphs
+          - Работа с серверами, коммутаторами и записывающим оборудованием Sony и Panasonic.
+          - Монтаж FinalCut Pro. Синхронизация звука. Цветокоррекция.
 
 
   - title: Education # Title for the section
