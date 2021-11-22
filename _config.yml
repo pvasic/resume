@@ -34,10 +34,10 @@ additional_links:
   url: https://t.me/pvasic
 
 # About Section
-# about_title: About Me
+about_title: Личные качества
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Привет я Java разработчик <mark>Spring</mark>
+  Предприимчивость, инициативность и креативность.
 
 content:
   - title: Квалификация
