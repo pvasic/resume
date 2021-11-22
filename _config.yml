@@ -107,16 +107,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: РКК «Энергия»
-        link: https://javaops.ru/
-        link_text: javaops.ru
-        sub_title: Инженер
-        caption: январь 2021 - настоящее время
+        title: Джет
+        link: http://www.jetpress.ru/
+        link_text: jetpress.ru
+        sub_title: Менеджер / SEO
+        caption: ноябрь 2010 - февраль 2014
         quote: >
-          Поддержка полиграфического оборудования, Документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+          Продажи. Управление заказами. SEO в Yandex Direct. Поддержка оборудования.
         description: | # this will include new lines to allow paragraphs
-          - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
-          - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
+          - полностью перепсисал контекстную рекламу для полиграфической целевой аудитории.
+          - Разработал калькулятор заказов в MathCad и Exel
 
 
   - title: Education # Title for the section
