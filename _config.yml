@@ -28,15 +28,10 @@ additional_links:
 - title: skype
   icon: fab fa-skype
   url: https://join.skype.com/invite/MbQSABeMa5hW
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+- title: telegram
+  icon: fab fa-telegram
+  url: https://t.me/pvasic
 
 # About Section
 # about_title: About Me
