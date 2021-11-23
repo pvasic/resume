@@ -57,12 +57,12 @@ content:
     content:
       - layout: left
         title: Голосование за рестораны
-        link: github.com/pvasic
-        link_text: github.com/pvasic
-        additional_links:
-          - title: pvasic/restaurant-voting
-            icon: fab fa-github
-            url: github.com/pvasic/restaurant-voting
+        link: github.com/pvasic/restaurant-voting
+        link_text: github.com/pvasic/restaurant-voting
+#        additional_links:
+#          - title: pvasic/restaurant-voting
+#            icon: fab fa-github
+#            url: github.com/pvasic/restaurant-voting
         sub_title: Архитектор, программист, тестировщик.
         caption: сентябрь 2021 - настоящее время
         quote: >
@@ -77,10 +77,10 @@ content:
         title: Javaops
         link: https://javaops.ru/
         link_text: javaops.ru
-        additional_links:
-          - title: pvasic/topjava
-            icon: fab fa-github
-            url: github.com/pvasic/topjava
+#        additional_links:
+#          - title: pvasic/topjava
+#            icon: fab fa-github
+#            url: github.com/pvasic/topjava
         sub_title: Стажировка Spring 5/JPA Enterprise
         caption: январь 2021 - настоящее время
         quote: >
