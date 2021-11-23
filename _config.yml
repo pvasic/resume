@@ -64,7 +64,7 @@ content:
             icon: fab fa-github
             url: github.com/pvasic/restaurant-voting
         sub_title: Архитектор, программист, тестировщик.
-          caption: сентябрь 2021 - настоящее время
+        caption: сентябрь 2021 - настоящее время
         quote: >
           Проект разработан с нуля. Присутствует JUnit, Curl и SoapUI тестирование.
         description: | # this will include new lines to allow paragraphs
@@ -82,7 +82,7 @@ content:
             icon: fab fa-github
             url: github.com/pvasic/topjava
         sub_title: Стажировка Spring 5/JPA Enterprise
-          caption: январь 2021 - настоящее время
+        caption: январь 2021 - настоящее время
         quote: >
           Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей
         description: | # this will include new lines to allow paragraphs
