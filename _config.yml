@@ -10,7 +10,6 @@ name: Васичкин Павел
 title: Java разработчик
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -66,10 +65,12 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        sub_title: Архитектор, программист, тестировщик.
+          caption: сентябрь 2021 - настоящее время
         quote: >
-          Проект разработан с нуля, являюсь архитектором, разработчиком и тестировщиком.
+          Проект разработан с нуля. Присутствует JUnit, Curl и SoapUI тестирование.
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring Boot, Data Jpa, JUnit, Open API Swager.
+          Архитектура REST. Технологии Spring Boot, Data Jpa, Hibernate Envers, JUnit, Open API Swager. DB H2.
 
   - title: Опыт работы # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,6 +79,11 @@ content:
         title: Javaops
         link: https://javaops.ru/
         # link_text: boringcompany.com
+        additional_links:
+          - title: pvasic/topjava
+            icon: fab fa-github
+            url: github.com/pvasic/topjava
+
         sub_title: Стажировка Spring 5/JPA Enterprise
         caption: январь 2021 - настоящее время
         quote: >
