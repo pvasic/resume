@@ -170,9 +170,21 @@ content:
         caption: 2011 - 2016
         sub_title: Специалист
         quote: >
-
+          Факультет заочный.
         description: | # this will include new lines to allow paragraphs
-           Факультет заочный. Сети связи и системы коммутации. Диплом о высшем образовании.
+          Специальность: сети связи и системы коммутации. Диплом о высшем образовании.
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: МГТУ им. Баумана
+        caption: 2011 - 2016
+        sub_title: Бакалавр
+        quote: >
+          Факультет: машиностроительные технологии
+        description: | # this will include new lines to allow paragraphs
+          Технологии сварки и диагностика.
 
 # Footer
 footer_show_references: true
