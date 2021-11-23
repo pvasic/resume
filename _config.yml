@@ -89,6 +89,10 @@ content:
           - реализация сохранения в базы Postgres и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
           - реализация и тестирование REST и AJAX контроллеров
           - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
+        additional_links:
+          - title: pvasic/topjava
+            icon: fab fa-github
+            url: github.com/pvasic/topjava
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -145,8 +149,8 @@ content:
         quote: >
           Java разработчик корпоративных приложений
         description: | # this will include new lines to allow paragraphs
-          - 01/2021 — настояшее время. Стажировка – Java разработчик корпоративных приложений. Сертификат.
-          - 01/2020 — 05/2020. Курс – Java разработчик веб-приложений. Сертификат с отличием.
+          - 01/2021 - настояшее время. Стажировка – Java разработчик корпоративных приложений. Сертификат.
+          - 01/2020 - 05/2020. Курс – Java разработчик веб-приложений. Сертификат с отличием.
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
@@ -158,18 +162,18 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          - 08/2018 — 09/2018 Курс – Enterprise Java Beans. Сертификат.
-          - 07/2018 — 08/2018 Курс – Java SE9. Уровень 2. Разработка клиент - серверных приложений. Сертификат.
-          - 06/2018 — 07/2018 Курс – Java SE9. Уровень 1. Основы программирования. Сертификат.
-          - 05/2018 — 06/2018 Курс – Программироване на языке С. Сертификат.
-          - 04/2018 — 05/2018 Курс – Основы решения алгоритмических задач. Сертификат.
-          - 01/2018 — 02/2018 Курс – Курс – Основы программирования и баз данных. Сертификат.
+          - 08/2018 - 09/2018 Курс – Enterprise Java Beans. Сертификат.
+          - 07/2018 - 08/2018 Курс – Java SE9. Уровень 2. Разработка клиент - серверных приложений. Сертификат.
+          - 06/2018 - 07/2018 Курс – Java SE9. Уровень 1. Основы программирования. Сертификат.
+          - 05/2018 - 06/2018 Курс – Программироване на языке С. Сертификат.
+          - 04/2018 - 05/2018 Курс – Основы решения алгоритмических задач. Сертификат.
+          - 01/2018 - 02/2018 Курс – Курс – Основы программирования и баз данных. Сертификат.
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Московский технический университет связи и информатики МТУСИ
+        title: МТУСИ, cвязи и информатики
         caption: 2011 - 2016
         sub_title: Специалист
         quote: >
