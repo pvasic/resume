@@ -47,7 +47,7 @@ content:
       - <mark>Java Frameworks</mark> : Java (Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
       - <mark>DB</mark> : PostgreSQL, MySQL, HSQLDB, H2
       - <mark>JEE</mark> : Apache Tomcat
-      - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT
+      - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT, Swagger (OpenAPI 3.0)
       - <mark>Инструменты</mark> : Git, Maven, IntelliJ IDEA
       - <mark>Навыки</mark> : применение концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования.
       - <mark>Английский</mark> : B1 – средний
@@ -57,18 +57,17 @@ content:
     content:
       - layout: left
         title: Голосование за рестораны
-        link: github.com/pvasic/restaurant-voting
-        link_text: github.com/pvasic/restaurant-voting
-#        additional_links:
-#          - title: pvasic/restaurant-voting
-#            icon: fab fa-github
-#            url: github.com/pvasic/restaurant-voting
         sub_title: Архитектор, программист, тестировщик.
         caption: сентябрь 2021 - настоящее время
         quote: >
+          Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей.
           Проект разработан с нуля. Присутствует JUnit, Curl и SoapUI тестирование.
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring Boot, Data Jpa, Hibernate Envers, JUnit, Open API Swager. DB H2.
+          Архитектура REST. Технологии Spring Boot, Data Jpa, Hibernate Envers, JUnit, Swagger (OpenAPI 3.0). DB H2.
+        additional_links:
+          - title: pvasic/restaurant-voting
+            icon: fab fa-github
+            url: github.com/pvasic/restaurant-voting
 
   - title: Опыт работы # Title for the section
     layout: list # Type of content section (list/text)
@@ -77,10 +76,6 @@ content:
         title: Javaops
         link: https://javaops.ru/
         link_text: javaops.ru
-#        additional_links:
-#          - title: pvasic/topjava
-#            icon: fab fa-github
-#            url: github.com/pvasic/topjava
         sub_title: Стажировка Spring 5/JPA Enterprise
         caption: январь 2021 - настоящее время
         quote: >
