@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Васичкин Павел
-title: Java разработчик   г. Москва
+title: Java разработчик, 34 года, г. Москва, ВО, опыт работы 1 год
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
 
@@ -33,13 +33,10 @@ additional_links:
     url: https://t.me/pvasic
 
 # About Section
-about_title: О себе
+about_title: Личные качества
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  ### Личные качества: предприимчивость, инициативность, креативность.
-  # Возраст: 34 года.
-  # Высшее образование.
-  # Опыт работы: 1 год.
+  Предприимчивость, инициативность, креативность.
 
 content:
   - title: Квалификация
@@ -113,13 +110,13 @@ content:
       - layout: left
         title:
         description: | # this will include new lines to allow paragraphs
-          февраль 2014 - настоящее время
-          Инженер РКК «Энергия»
-          Пуск-наладочные работы и ремонт оборудования. Дизайн и вёрстка макетов печатной продукции.
+          - февраль 2014 - настоящее время
+            Инженер РКК «Энергия»
+            Пуск-наладочные работы и ремонт оборудования. Дизайн и вёрстка макетов печатной продукции.
 
-          ноябрь 2010 - февраль 2014
-          Менеджер «Джет»
-          Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
+          - ноябрь 2010 - февраль 2014
+            Менеджер «Джет»
+            Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
 
 
 #  - title: # Title for the section
