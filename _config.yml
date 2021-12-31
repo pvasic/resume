@@ -105,15 +105,22 @@ content:
             url: github.com/pvasic/topjava
 
   - title: # Title for the section
-    layout: text # Type of content section (list/text)
-    content: |
-          - февраль 2014 - настоящее время
-            Инженер РКК «Энергия»
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Инженер РКК «Энергия»
+        caption: февраль 2014 - настоящее время
+        description: |
             Пуск-наладочные работы и ремонт оборудования. Дизайн и вёрстка макетов печатной продукции.
 
-          - ноябрь 2010 - февраль 2014
-            Менеджер «Джет»
-            Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
+  - title: # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Менеджер «Джет»
+        caption: ноябрь 2010 - февраль 2014
+        description: |
+          Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
 
 
 #  - title: # Title for the section
