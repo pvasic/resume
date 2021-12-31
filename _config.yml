@@ -36,9 +36,9 @@ additional_links:
 about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Личные качества: предприимчивость, инициативность, креативность.
-  Возраст: 34 года.
-  Высшее образование.
+  Личные качества: предприимчивость, инициативность, креативность. |
+  Возраст: 34 года. |
+  Высшее образование. |
   Опыт работы: 1 год.
 
 content:
@@ -81,11 +81,11 @@ content:
         quote: >
           Участие в разработке Spring/JPA Enterprise приложения
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring , Data Jpa, JUnit. DB H2.
+          Архитектура REST. Технологии Spring , Data Jpa, AJAX, JUnit. DB: Postgres, HSQLDB.
         additional_links:
           - title: pvasic/topjava
             icon: fab fa-github
-            url: github.com/pvasic/restaurant-voting
+            url: github.com/pvasic/topjava
 
   - title: Опыт работы # Title for the section
     layout: list # Type of content section (list/text)
@@ -112,16 +112,15 @@ content:
     content:
       - layout: left
         title:
-        link: https://www.energia.ru/
-        link_text: energia.ru
-        sub_title: Инженер, SEO, видоинженер.
-        caption: август 2008 - настоящее время
-        quote: >
-          РКК «Энергия»
-          Пуск-наладочные работы и поддержка оборудования. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
         description: | # this will include new lines to allow paragraphs
-          - неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
-          - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
+          февраль 2014 - настоящее время
+            Инженер РКК «Энергия»
+              Пуск-наладочные работы и ремонт оборудования. Дизайн и вёрстка макетов печатной продукции.
+
+          ноябрь 2010 - февраль 2014
+            Менеджер «Джет»
+              Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
+
 
 #  - title: # Title for the section
 #    layout: list # Type of content section (list/text)
