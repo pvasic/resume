@@ -36,7 +36,7 @@ additional_links:
 about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  # Личные качества: предприимчивость, инициативность, креативность.
+  ### Личные качества: предприимчивость, инициативность, креативность.
   # Возраст: 34 года.
   # Высшее образование.
   # Опыт работы: 1 год.
