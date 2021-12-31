@@ -17,7 +17,7 @@ darkmode: false
 # Social links
 github_username: pvasic
 instagram_username: pv_asic
-linkedin_username: pl.vasichkin
+#linkedin_username: pl.vasichkin
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
@@ -33,10 +33,13 @@ additional_links:
     url: https://t.me/pvasic
 
 # About Section
-about_title: Личные качества
+about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Предприимчивость, инициативность, креативность.
+  Личные качества: предприимчивость, инициативность, креативность.
+  Возраст: 34 года.
+  Высшее образование.
+  Опыт работы: 1 год.
 
 content:
   - title: Квалификация
@@ -56,15 +59,31 @@ content:
     content:
       - layout: left
         title: Голосование за рестораны
-        sub_title: Архитектор, программист, тестировщик.
-        caption: сентябрь 2021 - настоящее время
+        sub_title: Архитектор, программист.
+        caption: октябрь 2021 - настоящее время
         quote: >
-          Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей.
-          Проект разработан с нуля. Присутствует JUnit, Curl и SoapUI тестирование.
+          Личный проект. Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей.
+          Присутствует JUnit, Curl и Swagger тестирование.
         description: | # this will include new lines to allow paragraphs
           Архитектура REST. Технологии Spring Boot, Data Jpa, Hibernate Envers, JUnit, Swagger (OpenAPI 3.0). DB H2.
         additional_links:
           - title: pvasic/restaurant-voting
+            icon: fab fa-github
+            url: github.com/pvasic/restaurant-voting
+
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Topjava от Javaops
+        sub_title: Программист.
+        caption: сентябрь 2021 - настоящее время
+        quote: >
+          Участие в разработке Spring/JPA Enterprise приложения
+        description: | # this will include new lines to allow paragraphs
+          Архитектура REST. Технологии Spring , Data Jpa, JUnit. DB H2.
+        additional_links:
+          - title: pvasic/topjava
             icon: fab fa-github
             url: github.com/pvasic/restaurant-voting
 
@@ -92,17 +111,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: РКК «Энергия»
+        title:
         link: https://www.energia.ru/
         link_text: energia.ru
-        sub_title: Инженер
-        caption: январь 2021 - настоящее время
+        sub_title: Инженер, SEO, видоинженер.
+        caption: август 2008 - настоящее время
         quote: >
-          Поддержка полиграфического оборудования, документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+          РКК «Энергия»
+          Пуск-наладочные работы и поддержка оборудования. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
         description: | # this will include new lines to allow paragraphs
-          - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
-          - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
+          - неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
           - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
+
+#  - title: # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: РКК «Энергия»
+#        link: https://www.energia.ru/
+#        link_text: energia.ru
+#        sub_title: Инженер
+#        caption: январь 2021 - настоящее время
+#        quote: >
+#          Поддержка полиграфического оборудования, документооборот в КСЭД и 1С. Пуск-наладочные работы. Дизайн и вёрстка макетов в Adobe Photoshop, Illustrator, Indesign.
+#        description: | # this will include new lines to allow paragraphs
+#          - ввод в эксплуатацию нового оборудования FoilPrint 106, RisoA2, GUK-FA-36/2.
+#          - выявлены неисправности и ремонт оборудования HP Indigo press 3550, Riso 571E, Wohlenberg 92, EBA 721, МЛР 84С, GPM SURELAM PRO-500.
+#          - оптимизированы процессы: вёрстка макетов и спусков, программы печатных и резальных машин.
 
   - title:
     layout: list # Type of content section (list/text)
