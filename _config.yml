@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 version: 2
 
 # Personal info
-name: Васичкин Павел    Java разработчик
+name: Васичкин Павел      Java разработчик
 title: г. Москва, возраст 34 года,  высшее образование, опыт работы 1 год
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
@@ -185,7 +185,7 @@ content:
     content:
       - layout: left
         title: МГТУ им. Баумана
-        caption: 2011 - 2016
+        caption: 2007 - 2011
         quote: >
           Факультет: машиностроительные технологии
         description: | # this will include new lines to allow paragraphs
