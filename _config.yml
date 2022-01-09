@@ -1,13 +1,12 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Васичкин Павел
-title: Java разработчик , 34 года, г. Москва, ВО, опыт работы 1 год
+name: Васичкин Павел    Java разработчик
+title: г. Москва, возраст 34 года,  высшее образование, опыт работы 1 год
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
 
@@ -43,7 +42,7 @@ content:
     layout: text
     content: |
       - <mark>Languages</mark> : Java, XML, SQL
-      - <mark>Java Frameworks</mark> : Java (Time API, Streams), Spring (MVC, Security, JDBC, Data JPA, Boot), JPA (Hibernate), JUnit
+      - <mark>Java Frameworks</mark> : Java (Time API, Streams), Spring (Boot, MVC, Security, JDBC, Data JPA), JPA (Hibernate), JUnit
       - <mark>DB</mark> : PostgreSQL, MySQL, HSQLDB, H2
       - <mark>JEE</mark> : Apache Tomcat
       - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT, Swagger (OpenAPI 3.0)
@@ -57,12 +56,12 @@ content:
       - layout: left
         title: Голосование за рестораны
         sub_title: Архитектор, программист.
-        caption: октябрь 2021 - настоящее время
+        caption: 10/2021 - настоящее время
         quote: >
-          Личный проект. Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей.
+          Личный проект. Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. Только backend.
           Присутствует JUnit, Curl и Swagger тестирование.
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring Boot, Data Jpa, Hibernate Envers, JUnit, Swagger (OpenAPI 3.0). DB H2.
+          Архитектура REST. Технологии Spring Boot, Data Jpa, JUnit, Swagger (OpenAPI 3.0). DB H2.
         additional_links:
           - title: pvasic/restaurant-voting
             icon: fab fa-github
@@ -74,29 +73,34 @@ content:
       - layout: left
         title: Topjava от Javaops
         sub_title: Программист.
-        caption: сентябрь 2021 - настоящее время
+        caption: 09/2021 - настоящее время
         quote: >
           Участие в разработке Spring/JPA Enterprise приложения
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring , Data Jpa, AJAX, JUnit. DB: Postgres, HSQLDB.
+          Технологии Spring, Data Jpa, AJAX, JUnit. DB: Postgres. Клиент на Bootstrap.
         additional_links:
           - title: pvasic/topjava
             icon: fab fa-github
             url: github.com/pvasic/topjava
+
+          - title: topjavapvasic.herokuapp.com
+            icon: fas fa-cloud
+            url: topjavapvasic.herokuapp.com
 
   - title: Опыт работы # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Javaops
-        link: https://javaops.ru/
-        link_text: javaops.ru
+        link: http://javaops.ru/view/topjava
+        link_text: javaops.ru/view/topjava
         sub_title: Стажировка Spring 5/JPA Enterprise
-        caption: январь 2021 - настоящее время
+        caption: 01/2021 - настоящее время
         quote: >
           Участие в разработке Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей
+                    на стеке Maven/ Spring MVC/ Security/ REST(Jackson)/ Java 8 Stream API
         description: | # this will include new lines to allow paragraphs
-          - реализация сохранения в базы Postgres и HSQLDB на основе Spring JDBC, JPA(Hibernate) и Spring Data JPA
+          - реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA
           - реализация и тестирование REST и AJAX контроллеров
           - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
         additional_links:
@@ -109,10 +113,10 @@ content:
     content:
       - layout: left
         title: РКК «Энергия»
-        sub_title: Инженер
-        caption: февраль 2014 - настоящее время
+        sub_title: Инженер, дизайнер.
+        caption: 02/2014 - настоящее время
         description: |
-            Пуск-наладочные работы и ремонт оборудования. Дизайн и вёрстка макетов печатной продукции.
+          Обслуживание и пуск-наладочные работы оборудования. Документооборот (1С, КСЭД). Дизайн и вёрстка макетов печатной продукции.
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,9 +124,9 @@ content:
       - layout: left
         title: «Джет»
         sub_title: Менеджер, SEO
-        caption: ноябрь 2010 - февраль 2014
+        caption: 11/2010 - 02/2014
         description: |
-          Продажи. Управление заказами. SEO в Yandex Direct. ремонт оборудования.
+          Переговоры с клиентами и рассчет комерческого предложения. SEO в Yandex Direct.
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -130,7 +134,7 @@ content:
       - layout: left
         title: «RWS»
         sub_title: Видеоинженер
-        caption: август 2008 - ноябрь 2010
+        caption: 08/2008 - 11/2010
         description: |
           Видеомонтаж. Синхронизация звука. Цветокоррекция.
 
@@ -139,7 +143,7 @@ content:
     content:
       - layout: left
         title: Java Online Projects
-        caption: январь 2021 - настоящее время
+        caption: 01/2021 - настоящее время
         sub_title: Архитектор / программист
         quote: >
           Java разработчик корпоративных приложений
@@ -152,7 +156,7 @@ content:
     content:
       - layout: left
         title: «Специалист» при МГТУ им. Баумана
-        caption: январь 2018 - октябрь 2018
+        caption: 01/2018 - 10/2018
         sub_title: Программист
         quote: >
 
@@ -182,7 +186,6 @@ content:
       - layout: left
         title: МГТУ им. Баумана
         caption: 2011 - 2016
-        sub_title: Бакалавр
         quote: >
           Факультет: машиностроительные технологии
         description: | # this will include new lines to allow paragraphs
