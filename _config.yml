@@ -54,7 +54,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Голосование за рестораны
+        title: Restaurant voiting
         sub_title: Архитектор, программист.
         caption: 10/2021 - настоящее время
         quote: >
