@@ -5,7 +5,7 @@ repository: sproogen/resume-theme
 version: 2
 
 # Personal info
-name: Васичкин Павел - Java разработчик
+name: Васичкин Павел - Java developer
 title: г. Москва, возраст 34 года,  высшее образование, опыт работы 1 год
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
@@ -126,7 +126,7 @@ content:
         sub_title: Менеджер, SEO
         caption: 11/2010 - 02/2014
         description: |
-          Переговоры с клиентами и рассчет комерческого предложения. SEO в Yandex Direct.
+          Переговоры с клиентами и расчет коммерческого предложения. SEO в Yandex Direct.
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
