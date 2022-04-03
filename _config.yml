@@ -5,8 +5,8 @@ repository: sproogen/resume-theme
 version: 2
 
 # Personal info
-name: Васичкин Павел - Java developer
-title: г. Москва, возраст 35 лет,  высшее образование, опыт работы 1 год
+name: Васичкин Павел
+title: Java developer
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
 
@@ -34,10 +34,9 @@ additional_links:
 about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  Занимаюсь разработкой Spring/JPA Enterprise приложений. |
-  Рассматриваю предложения по работе в т.ч. удалённо. >
-  - dfhh
-  - dhffdhg
+  - г. Москва, 35 лет, ВО, опыт работы 1 год
+  - Занимаюсь разработкой Spring/JPA Enterprise API.
+  - Рассмастриваю предложения по работе, полный день в т.ч. удалённо.
 
 content:
   - title: Квалификация
