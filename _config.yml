@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Васичкин Павел - Java developer
-title: г. Москва, возраст 34 года,  высшее образование, опыт работы 1 год
+title: г. Москва, возраст 35 лет,  высшее образование, опыт работы 1 год
 email: pl.vasichkin@gmail.com
 phone: +7 (926) 130-08-55
 
@@ -15,7 +15,6 @@ darkmode: false
 
 # Social links
 github_username: pvasic
-instagram_username: pv_asic
 #linkedin_username: pl.vasichkin
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -32,10 +31,13 @@ additional_links:
     url: https://t.me/pvasic
 
 # About Section
-about_title: Личные качества
+about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  Предприимчивость, инициативность, креативность.
+  Занимаюсь разработкой Spring/JPA Enterprise приложений. |
+  Рассматриваю предложения по работе в т.ч. удалённо. >
+  - dfhh
+  - dhffdhg
 
 content:
   - title: Квалификация
@@ -54,38 +56,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Restaurant voiting
-        sub_title: Архитектор, программист.
+        title: Restaurant voting
+        sub_title:
         caption: 10/2021 - настоящее время
         quote: >
-          Личный проект. Разработка Spring/JPA Enterprise приложения c авторизацией и правами доступа на основе ролей. Только backend.
-          Присутствует JUnit, Curl и Swagger тестирование.
+          Собственный проект. Spring Boot/JPA Enterprise приложение c авторизацией и правами доступа на основе ролей. Backend.
+
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Технологии Spring Boot, Data Jpa, JUnit, Swagger (OpenAPI 3.0). DB H2.
+          Архитектура REST. Spring Security/ Data Jpa, JUnit, Swagger (OpenAPI 3.0). DB H2.
         additional_links:
           - title: pvasic/restaurant-voting
             icon: fab fa-github
             url: github.com/pvasic/restaurant-voting
-
-  - title:  # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Topjava от Javaops
-        sub_title: Программист.
-        caption: 09/2021 - настоящее время
-        quote: >
-          Участие в разработке Spring/JPA Enterprise приложения
-        description: | # this will include new lines to allow paragraphs
-          Технологии Spring, Data Jpa, AJAX, JUnit. DB: Postgres. Клиент на Bootstrap.
-        additional_links:
-          - title: pvasic/topjava
-            icon: fab fa-github
-            url: github.com/pvasic/topjava
-
-          - title: topjavapvasic.herokuapp.com
-            icon: fas fa-cloud
-            url: topjavapvasic.herokuapp.com
 
   - title: Опыт работы # Title for the section
     layout: list # Type of content section (list/text)
@@ -102,11 +84,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           - реализация сохранения в базы Postgres и HSQLDB на основе Spring JBDC, JPA(Hibernate) и Spring-Data-JPA
           - реализация и тестирование REST и AJAX контроллеров
-          - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins
+          - реализация клиента на Bootstrap (css/js), datatables, jQuery + plugins.
+          - ссылки на github и развернутое api на heroku.(30 сек. выход и сна)
         additional_links:
           - title: pvasic/topjava
             icon: fab fa-github
             url: github.com/pvasic/topjava
+
+          - title: topjavapvasic.herokuapp.com
+            icon: fas fa-cloud
+            url: topjavapvasic.herokuapp.com
+
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -114,9 +102,9 @@ content:
       - layout: left
         title: РКК «Энергия»
         sub_title: Инженер, дизайнер.
-        caption: 02/2014 - настоящее время
+        caption: 02/2014 - 01/2022
         description: |
-          Обслуживание и пуск-наладочные работы оборудования. Документооборот (1С, КСЭД). Дизайн и вёрстка макетов печатной продукции.
+          Документооборот (1С, КСЭД). Дизайн и вёрстка макетов печатной продукции. Обслуживание и пуск-наладочные работы оборудования.
 
   - title: # Title for the section
     layout: list # Type of content section (list/text)
@@ -144,7 +132,7 @@ content:
       - layout: left
         title: Java Online Projects
         caption: 01/2021 - настоящее время
-        sub_title: Архитектор / программист
+        sub_title: Программист
         quote: >
           Java разработчик корпоративных приложений
         description: | # this will include new lines to allow paragraphs
@@ -161,12 +149,7 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          - 08/2018 - 09/2018 Курс - Enterprise Java Beans. Сертификат.
-          - 07/2018 - 08/2018 Курс - Java SE9. Уровень 2. Разработка клиент - серверных приложений. Сертификат.
-          - 06/2018 - 07/2018 Курс - Java SE9. Уровень 1. Основы программирования. Сертификат.
-          - 05/2018 - 06/2018 Курс - Программироване на языке С. Сертификат.
-          - 04/2018 - 05/2018 Курс - Основы решения алгоритмических задач. Сертификат.
-          - 01/2018 - 02/2018 Курс - Основы программирования и баз данных. Сертификат.
+          - 01/2018 - 09/2018 Курсы - Java SE9. Enterprise Java Beans.
 
   - title:  # Title for the section
     layout: list # Type of content section (list/text)
