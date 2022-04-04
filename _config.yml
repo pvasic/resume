@@ -30,6 +30,10 @@ additional_links:
     icon: fab fa-telegram
     url: https://t.me/pvasic
 
+  - title: pdf
+    icon: fa-regular fa-file-pdf
+    url: https://disk.yandex.ru/d/OXnIGbtG-XVKgg
+
 # About Section
 about_title: О себе
 about_profile_image: images/profile.jpg
