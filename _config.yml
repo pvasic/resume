@@ -38,8 +38,9 @@ additional_links:
 about_title: О себе
 about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
-  - г. Москва, 35 лет, ВО, опыт работы 1 год
-  - Занимаюсь разработкой Spring/JPA Enterprise API.
+  - г. Москва, 35 лет, ВО.
+  - Занимаюсь разработкой на Java.
+  - Есть сделанный с нуля pet-проект на Spring Boot.
   - Рассматриваю предложения по работе, полный день в т.ч. удалённо.
 
 content:
@@ -63,10 +64,10 @@ content:
         sub_title:
         caption: 10/2021 - настоящее время
         quote: >
-          Собственный проект. Spring Boot/JPA Enterprise приложение c авторизацией и правами доступа на основе ролей. Backend.
+          Pet - проект разработан с нуля. Spring Boot REST API.
 
         description: | # this will include new lines to allow paragraphs
-          Архитектура REST. Spring Security/ Data Jpa, JUnit, Swagger (OpenAPI 3.0). DB H2.
+          Используемые техлологии: Spring Security/ Data Jpa, JUnit, Swagger (OpenAPI 3.0). DB H2.
         additional_links:
           - title: pvasic/restaurant-voting
             icon: fab fa-github
