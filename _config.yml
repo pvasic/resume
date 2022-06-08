@@ -40,7 +40,7 @@ about_profile_image: images/profile.jpg
 about_content: |  # this will include new lines to allow paragraphs
   - г. Москва, 35 лет, ВО, опыт работы 1 год
   - Занимаюсь разработкой Spring/JPA Enterprise API.
-  - Рассмастриваю предложения по работе, полный день в т.ч. удалённо.
+  - Рассматриваю предложения по работе, полный день в т.ч. удалённо.
 
 content:
   - title: Квалификация
