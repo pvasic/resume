@@ -54,7 +54,7 @@ content:
       - <mark>Технологии</mark> : REST, JDBC, JPA, Servlet, JSP/JSTL, AJAX, JWT, Swagger (OpenAPI 3.0)
       - <mark>Инструменты</mark> : Git, Maven, IntelliJ IDEA
       - <mark>Навыки</mark> : применение концепций ООП, шаблонов проектирования, архитектурных шаблонов, UML, функционального программирования.
-      - <mark>Английский</mark> : A1
+      - <mark>Английский</mark> : A2
 
   - title: Проекты # Title for the section
     layout: list # Type of content section (list/text)
